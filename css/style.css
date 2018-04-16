@@ -1,0 +1,26 @@
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.button {
+    outline: none;
+    border: none;
+    width: 150px;
+    height: 50px;
+    background: rgb(231, 147, 21);
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    transition: background .5s linear;
+}
+
+.button:hover {
+    background: red;
+}
+
