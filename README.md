@@ -1,3 +1,3 @@
 # Random password generator
 
-link: 
+link: https://paveldub.github.io/random-password/
